@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TreasureMap": {
+      "commandName": "Project",
+      "commandLineArgs": "TreasureMap.txt TreasureMapOutput.txt"
+    }
+  }
+}
